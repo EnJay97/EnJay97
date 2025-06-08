@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **noah.johannes.schulz97@gmx.de**
 
-- ⚡ Fun fact **I'm learning the Italian language.**
+- ⚡ Fun fact **I love pigeons.** 🕊️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
