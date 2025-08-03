@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on ["Bestellapp"](https://noah-schulz.developerakademie.net/bestellapp/index.html)
+- 🔭 I’m currently working on [bestellapp](https://noah-schulz.developerakademie.net/bestellapp/index.html)
 
 - 🌱 I’m currently learning **JavaScript**
 
